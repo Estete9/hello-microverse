@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -67,18 +67,6 @@
 - **Pull request**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- Coming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
 
 <!-- GETTING STARTED -->
 
@@ -157,7 +145,7 @@ To run the project, do the following:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](#) (coming soon).
+Feel free to check the [issues page](https://github.com/Estete9/hello-microverse/issues).
 
 <!-- SUPPORT -->
 
